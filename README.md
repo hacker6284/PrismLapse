@@ -12,4 +12,4 @@
 ![Trees PrismLapse](https://github.com/hacker6284/PrismLapse/blob/master/Examples/Trees/original.png)
 
 ### Different output with a D vvalue of 20:
-![Earth PrismLapse](https://github.com/hacker6284/PrismLapse/blob/master/Examples/Earth/output20.png)
+![Earth PrismLapse](https://github.com/hacker6284/PrismLapse/blob/master/Examples/Earth/output_20.png)
