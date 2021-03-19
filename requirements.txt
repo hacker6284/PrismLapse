@@ -1,5 +1,5 @@
 blend-modes==2.1.0
 colorcorrect==0.9
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.1.1
 six==1.14.0
